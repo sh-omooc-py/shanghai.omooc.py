@@ -39,7 +39,7 @@
    * Tips
    * 
 * 黄润悟
-   * [Github地址]
+   * [Github地址:rainvoo](https://github.com/rainvoo)
    * 最好的教程
    * Tips
    * 
@@ -54,7 +54,7 @@
    * Tips
    * 
 * 阡陌   
-   * [Github地址](https://github.com/cici1989) 
+   * [Github地址:cici1989](https://github.com/cici1989) 
    * 我觉得我写的最好的教程，[第二个程序——可回放的彩点画板](http://cici19891.gitbooks.io/pythoncamp0/content/source/part2/3.html)
    * Tips
    * 
