@@ -5,7 +5,7 @@
 大猫Felix | [Runbigcat](https://github.com/Runbigcat) | [.py](https://github.com/Runbigcat/omooc.py) / [.md](https://github.com/Runbigcat/pythoncamp0) | [book](http://runbigcat.gitbooks.io/bigcat-vs-python/content/) | ?  
 王玉洁 | [wangyujie123](https://github.com/wangyujie123) | [.py](https://github.com/wangyujie123/omooc.py) / [.md](https://github.com/wangyujie123/pythoncamp0) | 无效链接[book](http://wangyujie123.gitbooks.io/pythoncamp0/content/) | ? 
 启程-东 | [wdcheng1](https://github.com/wdcheng1) | [.py](https://github.com/wdcheng1/omooc.py) / [.md](https://github.com/wdcheng1/pythoncamp0) | [book](http://wdcheng1.gitbooks.io/python-book/content/) | Y
-王培炎（cp4） | [cp4](https://github.com/cp4) | [.py](https://github.com/cp4/omooc.py) / [.md](https://github.com/cp4/pythoncamp0) | [book](http://cp4.gitbooks.io/create-popular-personal-python-projects/content/) | Y 
+王培炎（cp4） | [cp4](https://github.com/cp4) | [.py](https://github.com/cp4/omooc.py) / [.md](https://github.com/cp4/pythoncamp0) | [book](http://cp4.gitbooks.io/pythoncamp/content/) | Y 
 凯凯 | [leokaikai](https://github.com/leokaikai) | [.py](https://github.com/leokaikai/omooc.py) / [.md](https://github.com/leokaikai/pythoncamp0) | [book](http://www.jianshu.com/users/d0a733dd9f2a/latest_articles) | Y 
  ★cici（阡陌） | [cici1989](https://github.com/cici1989) | [.py](https://github.com/cici1989/omooc.py) / [.md](https://github.com/cici1989/pythoncamp0) | [book](http://cici19891.gitbooks.io/pythoncamp0/content/) | **Y** 
 sisi | [zsisi](https://github.com/zsisi) | [.py](https://github.com/zsisi/omooc.py) / [.md](https://github.com/zsisi/pythoncamp0) | 暂时没有GitBook教程 | ? 
