@@ -1,5 +1,6 @@
 * [缘起——团队名片](./source-sh/begin.md)
-* [互助小组的诞生](./source-sh/week1/weekbegin.md)
+* [互助小组的诞生（进度及困惑）](./source-sh/week1/weekbegin.md)
+  * [进度及困惑](./source-sh/week1/0.md)
   * [周一](./source-sh/week1/1.md)
   * [周二](./source-sh/week1/2.md)
   * [周三](./source-sh/week1/3.md)
